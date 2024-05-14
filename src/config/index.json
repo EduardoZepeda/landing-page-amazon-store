@@ -1,25 +1,20 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "Nombre en proceso",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
     {
-      "name": "Product",
-      "href": "product"
+      "name": "Beneficios",
+      "href": "/#product"
     },
     {
-      "name": "Features",
-      "href": "features"
-    },
-
-    {
-      "name": "Pricing",
-      "href": "pricing"
+      "name": "Funcionamiento",
+      "href": "/#features"
     },
     {
-      "name": "About",
-      "href": "about"
+      "name": "Nosotros",
+      "href": "/#about"
     }
   ],
   "callToAction": {
@@ -27,63 +22,63 @@
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Acelera tu crecimiento",
+    "subtitle": "en Amazon",
+    "description": "Te ayudamos a conseguir más ventas y reviews en Amazon, sobre todo si estás empezando, para que puedas concentrarte en crecer y llevar tu negocio al siguiente nivel.",
+    "img": "/assets/images/deserved-gift.jpg",
     "primaryAction": {
-      "text": "Get started",
-      "href": "#"
+      "text": "Quiero saber más",
+      "href": "/#product"
     },
     "secondaryAction": {
-      "text": "Email us",
+      "text": "Envíanos un email",
       "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Más ventas en Amazon",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Consigue más ventas y reviews",
+        "description": "Mostramos tus productos a clientes que buscan comprar productos con descuento para que incrementes tus ventas y ganes impulso en amazon.",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Registra tus productos y cupones con nosotros",
+        "description": "Registra tus productos y cupones exclusivos con nosotros y nuestro sistema se encargará de mostrárselos a miles de clientes que buscan las mejores ofertas en Amazon",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "title": "Es muy simple",
+    "subtitle": "¿Cómo funciona?",
+    "description": "Te explicamos como funciona esto, es bastante simple.",
     "items": [
       {
-        "name": "React.js",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
-        "icon": "/assets/images/react.png"
+        "name": "Crea una cuenta",
+        "description": "Regístrate con nosotros para empezar",
+        "icon": "/assets/images/1.png"
       },
       {
-        "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "name": "Promociona tus descuentos",
+        "description": "Sube los productos que tienes en descuento a nuestra plataforma para que todo el mundo se entere",
+        "icon": "/assets/images/2.png"
       },
       {
-        "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
-        "icon": "/assets/images/nextjs.svg"
+        "name": "Promociona tus cupones",
+        "description": "Crea y sube tus cupones de Amazon exclusivos para que tus usuarios los vean.",
+        "icon": "/assets/images/3.png"
       },
       {
-        "name": "Typescript",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
-        "icon": "/assets/images/ts.png"
+        "name": "Tráfico de compradores",
+        "description": "Nosotros nos encargamos de mostrárselos a miles de usuarios que buscan comprar las mejores ofertas en Amazon",
+        "icon": "/assets/images/4.png"
       }
     ]
   },
   "pricing": {
-    "title": "Pricing",
+    "title": "Paquetes",
     "items": [
       {
         "name": "Free",
@@ -124,23 +119,18 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "#",
+        "name": "Nosotros",
+        "href": "/nosotros",
+        "content": "Locos por el ecommerce por más de diez años, creemos que el ecommerce tiene el potencial de mejorar la flexibilidad del trabajo y la vida de las personas"
+      },
+      {
+        "name": "Política de privacidad",
+        "href": "/politica-de-privacidad",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
+        "name": "Cookies",
+        "href": "/cookies",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       }
     ],
@@ -149,5 +139,10 @@
       "twitter": "https://twitter.com/issaafkattan",
       "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
     }
+  },
+  "email": {
+    "title": "Ya casi está lista",
+    "subtitle": "Estamos ajustando unos últimos detalles todavía, pero deja tu correo electrónico aquí para ser de los primeros y que no te pierdas de una sola venta. Te avisaremos una vez esté terminada.",
+    "brevoUrl": "https://876d92bf.sibforms.com/serve/MUIFABy4x6A6slnYLLQgSF-BcKpC3kUHihs3wALVk5c2L9j0WtuVu7XFnqBAURBnSsdgH6NyPh50EW3_WOb7DIWpNmhyXtfGAzXQh5fbi6o91dHBBpdFh0KVjQT9k5y1YMJWVA_fGAWQOlI0_9Ym2nXGDWnzJouXR9CEGdbrc9TMe98Hxzau_NXJFED9wAe2aby1JxlU0pDnipJP"
   }
 }
