@@ -14,7 +14,11 @@ const Nosotros = () => {
           que el E-commerce tiene el potencial de darle más libertad al ser
           humano, dándole mayor libertad sobre donde trabajar y también dándole
           la oportunidad a cualquier persona de emprender, incluso con poco
-          capital. Por esto estamos aquí y por
+          capital.
+        </p>
+        <p>
+          Por esto estamos aquí, y por eso queremos ayudar a los que quieren
+          vivir del e-commerce
         </p>
       </main>
       <About />
